@@ -10,17 +10,17 @@ I am a **Junior Fullstack Developer** passionate about creating responsive and e
 
 ## 🚀 About Me
 - 🌍 Based in **Kenya**.
-- 💼 Currently working at **[Your Company/Project]**.
-- 🎓 **Junior Fullstack Developer** skilled in **React.js**, **Node.js**, and **APIs**.
+- 💼 Currently working at **MarpsAfrica | Save A Soul Organization**.
+- 🎓 **Junior Fullstack Developer** skilled in **React.js**, **Typescript**.
 - 🕰️ I mostly work **at night (Kenyan time)**, so you’ll often find me coding and collaborating in the late hours!
 - 🧑‍💻 I’m currently focusing on **cloud computing** and **DevOps practices** to enhance my skill set.
 - 🌱 I’m constantly learning and contributing to **open-source projects**.
 - 🗣️ Fluent in **English**.
 
-[![Portfolio](https://img.shields.io/badge/-Portfolio-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](http://www.your-portfolio-link.com)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://developerp.netlify.app/)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin-profile/)
-[![Email](https://img.shields.io/badge/-Email-blue?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
-[![Download CV](https://img.shields.io/badge/-Download%20CV-brightgreen?style=for-the-badge&logo=download&logoColor=white)](http://www.your-cv-link.com)
+[![Email](https://img.shields.io/badge/-Email-blue?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pmbugua276@gmail.com)
+[![Download CV](https://img.shields.io/badge/-Download%20CV-brightgreen?style=for-the-badge&logo=google-drive&logoColor=white)](https://flowcv.com/resume/f62ua50tfk)
 
 ---
 
@@ -28,12 +28,12 @@ I am a **Junior Fullstack Developer** passionate about creating responsive and e
 
 ### Frontend
 - **Languages**: HTML, CSS, JavaScript, TypeScript
-- **Frameworks/Libraries**: React.js, Redux, Tailwind CSS, Bootstrap
+- **Frameworks/Libraries**: React.js, Tailwind CSS, Bootstrap
 - **Tools**: Figma, VS Code, Chrome DevTools
 
 ### Backend
 - **Languages**: Node.js, Express.js
-- **Databases**: MongoDB, MySQL
+- **Databases**: MongoDB, MySQLite
 - **API Development**: RESTful APIs, GraphQL
 - **Authentication**: JWT, OAuth
 
@@ -80,9 +80,9 @@ I am a **Junior Fullstack Developer** passionate about creating responsive and e
 ---
 
 ## 🌍 How to Reach Me
-- **Email**: [your-email@example.com](mailto:your-email@example.com)
-- **LinkedIn**: [Peter Mbugua](https://www.linkedin.com/in/your-linkedin-profile/)
-- **Portfolio**: [www.your-portfolio.com](http://www.your-portfolio.com)
+- **Email**: [pmbugua276@gmail.com](mailto:pmbugua276@gmail.com)
+- **LinkedIn**: [Peter Mbugua](https://www.linkedin.com/in/peter-mbugua-a6351a262/)
+- **Portfolio**: [Engineer Peter](https://developerp.netlify.app/)
 
 ---
 
