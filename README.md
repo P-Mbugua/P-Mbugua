@@ -1,6 +1,6 @@
 # Hi there, I'm Peter Mbugua! 👋
 
-![Profile Picture](https://your-picture-link.com)
+![Profile Picture](https://p-mbugua.github.io/Official-_Portfolio/peter.png)
 
 I am a **Junior Fullstack Developer** passionate about creating responsive and efficient web applications. With a strong foundation in both frontend and backend development, I focus on building scalable solutions that solve real-world problems. I enjoy collaborating with others and am always eager to learn new technologies and best practices.
 
@@ -18,7 +18,7 @@ I am a **Junior Fullstack Developer** passionate about creating responsive and e
 [![Portfolio](https://img.shields.io/badge/-Portfolio-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](http://www.your-portfolio-link.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin-profile/)
 [![Email](https://img.shields.io/badge/-Email-blue?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
-
+[![Download CV](https://img.shields.io/badge/-Download%20CV-brightgreen?style=for-the-badge&logo=download&logoColor=white)](http://www.your-cv-link.com)
 ---
 
 ## 🔧 Skills & Technologies
