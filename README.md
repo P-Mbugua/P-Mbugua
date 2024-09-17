@@ -20,7 +20,7 @@ I am a **Junior Fullstack Developer** passionate about creating responsive and e
 [![Portfolio](https://img.shields.io/badge/-Portfolio-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://developerp.netlify.app/)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin-profile/)
 [![Email](https://img.shields.io/badge/-Email-blue?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pmbugua276@gmail.com)
-[![Download CV](https://img.shields.io/badge/-Download%20CV-brightgreen?style=for-the-badge&logo=download&logoColor=white)](https://flowcv.com/resume/f62ua50tfk)
+[![Download CV](https://img.shields.io/badge/-Download%20CV-brightgreen?style=for-the-badge&logo=google-drive&logoColor=white)](https://flowcv.com/resume/f62ua50tfk)
 
 ---
 
