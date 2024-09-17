@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi there, I'm Peter Mbugua! 👋
 
-<!--
-**P-Mbugua/P-Mbugua** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Junior Fullstack Developer** passionate about building web applications and learning new technologies.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on improving my skills in **React** and **Node.js**.
+- 🌱 I’m learning more about **cloud services** and **DevOps** practices.
+- 👯 I’m looking to collaborate on projects related to **JavaScript**, **API development**, and **UI/UX**.
+- 💬 Ask me about **JavaScript**, **React**, **Node.js**, and anything about web development.
+- 📫 How to reach me: [Your Email or Social Handle]
+- ⚡ Fun fact: I enjoy solving coding challenges and contributing to open-source projects!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+![Peter Mbugua's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark)
+
