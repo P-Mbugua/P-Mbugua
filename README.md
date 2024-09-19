@@ -54,9 +54,9 @@ I am a **Junior Fullstack Developer** passionate about creating responsive and e
 ---
 
 ## 📈 GitHub Stats
-![Peter Mbugua's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark&count_private=true)
+![Peter Mbugua's GitHub Stats](https://github-readme-stats.vercel.app/api?username=P-Mbugua&show_icons=true&theme=dark&count_private=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=dark)](https://github.com/yourusername)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=P-Mbugua&layout=compact&theme=dark)](https://github.com/P-Mbugua)
 
 ---
 
