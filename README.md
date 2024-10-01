@@ -18,9 +18,9 @@ I am a **Junior Fullstack Developer** passionate about creating responsive, scal
 - 🌍 **Location**: Kenya
 - 💼 **Current Work**: MarpsAfrica | Save A Soul Organization
 - 🎓 **Role**: Junior Fullstack Developer | **Skills**: React.js, TypeScript
-- 🕰️ **Work Hours**: Mostly at night (Kenyan time)
-- 🌱 **Learning**: Cloud computing & DevOps
-- 🗣️ **Languages**: Fluent in English
+- 🕰️ **Work Hours**: Mostly at night (Kenyan time).
+- 🌱 **Learning**: Cloud computing & DevOps.
+- 🗣️ **Languages**: Fluent in English | Swahili.
 
 <div align="center">
   <a href="https://developerp.netlify.app/" target="_blank">
@@ -48,7 +48,7 @@ I am a **Junior Fullstack Developer** passionate about creating responsive, scal
 
 ### Backend
 - **Languages**: Node.js, Express.js
-- **Databases**: MongoDB, MySQLite
+- **Databases**:  MySQLite
 - **API**: RESTful, GraphQL
 - **Authentication**: JWT, OAuth
 
@@ -79,27 +79,27 @@ I am a **Junior Fullstack Developer** passionate about creating responsive, scal
 
 ## 🌟 Featured Projects
 
-### [Project 1: Fullstack Application](project-link)
-   - **Description**: A fullstack web app for managing XYZ.
-   - **Tech Stack**: React.js, Node.js, MongoDB
+### [Project 1: Delivery Management](parcelpoa.netlify.app)
+   - **Description**: A fullstack web app for managing Deliveries.
+   - **Tech Stack**: React.js, Python, Flask, SQLite3, Tailwind CSS.
    - **Features**: Authentication, CRUD, real-time updates.
 
-### [Project 2: Personal Portfolio](project-link)
+### [Project 2: Personal Portfolio](mbuguapeter.netlify.app)
    - **Description**: A responsive portfolio website showcasing my work.
-   - **Tech Stack**: React.js, Tailwind CSS
+   - **Tech Stack**: React.js, Tailwind CSS, Typescript, Firebase,Python ,EmailJs.
    - **Features**: Modern design, fully responsive.
 
-### [Project 3: Task Management API](project-link)
-   - **Description**: RESTful API for task management.
-   - **Tech Stack**: Node.js, Express.js, MongoDB
+### [Project 3: Hotel Management API](hetelogix.netlify.app)
+   - **Description**: RESTful API for Hotel management.
+   - **Tech Stack**: Flask, SQlite3, Tailwind Css, React
    - **Features**: JWT authentication, role-based access.
 
 ---
 
 ## 🌍 How to Reach Me
-- **Email**: [pmbugua276@gmail.com](mailto:pmbugua276@gmail.com)
-- **LinkedIn**: [Peter Mbugua](https://www.linkedin.com/in/peter-mbugua-a6351a262/)
-- **Portfolio**: [Engineer Peter](https://developerp.netlify.app/)
+- **Email**: [petermbuguangumi@gmail.com](mailto:petermbuguangumi@gmail.com)
+- **LinkedIn**: [Peter_Mbugua](https://www.linkedin.com/in/peter-mbugua-a6351a262/)
+- **Portfolio**: [Engineer_Peter](https://mbuguapeter.netlify.app/)
 
 ---
 
