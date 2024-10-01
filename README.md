@@ -67,12 +67,17 @@ I am a **Junior Fullstack Developer** passionate about creating responsive, scal
 - **Infrastructure as Code**: Terraform
 
 ---
-
 ## 📈 GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=P-Mbugua&show_icons=true&theme=dark&count_private=true" alt="GitHub Stats" width="450px">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=P-Mbugua&layout=compact&theme=dark" alt="Top Languages" width="350px">
+  
+  <!-- GitHub Streak Stats -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=P-Mbugua&theme=dark" alt="GitHub Streak Stats" width="450px">
+
+  <!-- Most Productive Time -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=P-Mbugua&theme=dark" alt="Most Active Hours" width="350px">
 </div>
 
 ---
