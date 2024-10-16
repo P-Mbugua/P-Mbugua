@@ -142,7 +142,7 @@ I aim to deepen my knowledge of cloud technologies and DevOps practices, with a 
 - **Top 5%** on LeetCode for problem-solving challenges.
 
 ### 🎤 Testimonials
-> "Peter's dedication to solving problems and his ability to learn quickly make him a valuable asset to any team." – [Mentor's Name]
+> "Peter's dedication to solving problems and his ability to learn quickly make him a valuable asset to any team." – Ian Okumu
 
 ### 🤔 Fun Facts
 - I once built a weather app that uses data from a rocket launch! 
