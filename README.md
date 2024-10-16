@@ -14,6 +14,9 @@ I am a **Junior Fullstack Developer** passionate about creating responsive, scal
 - 🌱 **Learning**: Cloud computing & DevOps.
 - 🗣️ **Languages**: Fluent in English | Swahili.
 
+### ✨ Personal Statement
+"Code is like humor. When you have to explain it, it’s bad." – Cory House
+
 <div align="center">
   <a href="https://developerp.netlify.app/" target="_blank">
     <img src="https://img.shields.io/badge/-Portfolio-%230084FF?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio Badge">
@@ -103,16 +106,6 @@ I am a **Junior Fullstack Developer** passionate about creating responsive, scal
 
 <hr style="border: 1px solid #cccccc; margin-top: 20px;"/>
 
-# 📝 Recent Blog Posts
-
-1. **[The Power of React Hooks](#)**
-   - Learn how to optimize React apps with hooks.
-   
-2. **[Building Scalable APIs with Node.js](#)**
-   - Guide to efficient API development with Node.js and Express.
-
-<hr style="border: 1px solid #cccccc; margin-top: 20px;"/>
-
 # 📜 Certifications
 - **JavaScript Algorithms & Data Structures** – freeCodeCamp
 - **Responsive Web Design** – freeCodeCamp
@@ -136,3 +129,21 @@ I am a **Junior Fullstack Developer** passionate about creating responsive, scal
 ---
 
 *Thank you for visiting my GitHub profile! 😊*
+
+### 🌱 Future Goals
+I aim to deepen my knowledge of cloud technologies and DevOps practices, with a goal to contribute to open-source projects and collaborate with like-minded developers.
+
+### 🤝 Community Involvement
+- Volunteer at local coding bootcamps to mentor aspiring developers.
+- Participated in the 2023 Hackathon at [Event Name], where my team won the Best Innovation Award.
+
+### 🎉 Achievements
+- **Winner** of the 2023 Local Code Jam.
+- **Top 5%** on LeetCode for problem-solving challenges.
+
+### 🎤 Testimonials
+> "Peter's dedication to solving problems and his ability to learn quickly make him a valuable asset to any team." – [Mentor's Name]
+
+### 🤔 Fun Facts
+- I once built a weather app that uses data from a rocket launch! 
+- My favorite programming language is JavaScript, but I'm keen to learn Go!
