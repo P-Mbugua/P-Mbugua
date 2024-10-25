@@ -6,7 +6,7 @@
 <hr style="border: 1px solid #cccccc; margin-top: 20px;"/>
 
 # 🚀 About Me
-I am a **Junior Fullstack Developer** passionate about creating responsive, scalable web applications. I enjoy solving real-world problems through technology and continuously learning to enhance my skills.
+I am a **Junior Fullstack Developer** passionate about creating responsive, scalable web applications. I enjoy solving real-world problems through technology and continuously learning to enhance | sharpen my skills set.
 
 - 🌍 **Location**: Kenya
 - 💼 **Current Work**: MarpsAfrica | Save A Soul Organization
@@ -42,14 +42,14 @@ I am a **Junior Fullstack Developer** passionate about creating responsive, scal
 - **Tools**: Figma, VS Code, Chrome DevTools
 
 ## Backend
-- **Languages**: Node.js, Express.js
-- **Databases**: MySQLite
+- **Languages**: Python
+- **Databases**: MySQLite3
 - **API**: RESTful, GraphQL
 - **Authentication**: JWT, OAuth
 
 ## DevOps & Tools
-- **Version Control**: Git, GitHub
-- **Deployment**: Heroku, Netlify, AWS
+- **Version Control**: Git, GitHub, Gitlab
+- **Deployment**: Heroku, Netlify, Vercel 
 - **Containerization**: Docker, Kubernetes (learning)
 - **CI/CD**: GitHub Actions, CircleCI
 - **Testing**: Jest, Mocha
@@ -69,10 +69,10 @@ I am a **Junior Fullstack Developer** passionate about creating responsive, scal
   <img src="https://github-readme-stats.vercel.app/api?username=P-Mbugua&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" width="450px">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=P-Mbugua&layout=compact&theme=radical" alt="Top Languages" width="350px">
   
-  <!-- GitHub Streak Stats -->
+ 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=P-Mbugua&theme=radical" alt="GitHub Streak Stats" width="450px">
 
-  <!-- Most Productive Time -->
+
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=P-Mbugua&theme=radical" alt="Most Active Hours" width="350px">
 </div>
 
@@ -81,8 +81,8 @@ I am a **Junior Fullstack Developer** passionate about creating responsive, scal
 # 🌟 Featured Projects
 
 ## 🚚 [Delivery Management](https://parcelpoa.netlify.app)
-   - **Description**: A fullstack web app for managing deliveries.
-   - **Tech Stack**: React.js, Python, Flask, SQLite3, Tailwind CSS.
+   - **Description**: A fullstack web app for managing orders | deliveries.
+   - **Tech Stack**: React.js, Python, Flask, SQLite3, Tailwind CSS, JWT.
    - **Features**: Authentication, CRUD, real-time updates.
 
 ## 🖥️ [Personal Portfolio](https://mbuguapeter.netlify.app)
@@ -92,7 +92,7 @@ I am a **Junior Fullstack Developer** passionate about creating responsive, scal
 
 ## 🏨 [Hotel Management API](https://hetelogix.netlify.app)
    - **Description**: RESTful API for Hotel management.
-   - **Tech Stack**: Flask, SQLite3, Tailwind CSS, React.js.
+   - **Tech Stack**: Flask, SQLite3, Tailwind CSS, Python, React.js.
    - **Features**: JWT authentication, role-based access.
 
 <hr style="border: 1px solid #cccccc; margin-top: 20px;"/>
@@ -113,6 +113,26 @@ I am a **Junior Fullstack Developer** passionate about creating responsive, scal
 
 <hr style="border: 1px solid #cccccc; margin-top: 20px;"/>
 
+
+
+### 🌱 Future Goals
+I aim to deepen my knowledge of cloud technologies and DevOps practices, with a goal to contribute to open-source projects and collaborate with like-minded developers.
+
+### 🤝 Community Involvement
+- Volunteer at local coding bootcamps to mentor aspiring developers.
+
+
+### 🎉 Achievements
+- **Winner** of the 2023 Local Code Jam.
+- **Top 5%** on LeetCode for problem-solving challenges.
+
+### 🎤 Testimonials
+> "Peter's dedication to solving problems and his ability to learn quickly make him a valuable asset to any team." – Ian Okumu
+
+### 🤔 Fun Facts
+- I once built a weather app that uses data from a rocket launch! 
+- My favorite programming language is JavaScript, but I'm keen to learn Go!
+
 # 💬 Let's Connect!
 <p align="center">
   <a href="mailto:petermbuguangumi@gmail.com">
@@ -126,24 +146,8 @@ I am a **Junior Fullstack Developer** passionate about creating responsive, scal
   </a>
 </p>
 
+
+
 ---
 
 *Thank you for visiting my GitHub profile! 😊*
-
-### 🌱 Future Goals
-I aim to deepen my knowledge of cloud technologies and DevOps practices, with a goal to contribute to open-source projects and collaborate with like-minded developers.
-
-### 🤝 Community Involvement
-- Volunteer at local coding bootcamps to mentor aspiring developers.
-- Participated in the 2023 Hackathon at [Event Name], where my team won the Best Innovation Award.
-
-### 🎉 Achievements
-- **Winner** of the 2023 Local Code Jam.
-- **Top 5%** on LeetCode for problem-solving challenges.
-
-### 🎤 Testimonials
-> "Peter's dedication to solving problems and his ability to learn quickly make him a valuable asset to any team." – Ian Okumu
-
-### 🤔 Fun Facts
-- I once built a weather app that uses data from a rocket launch! 
-- My favorite programming language is JavaScript, but I'm keen to learn Go!
