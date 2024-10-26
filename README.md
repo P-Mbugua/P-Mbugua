@@ -146,7 +146,7 @@ I aim to deepen my knowledge of cloud technologies and DevOps practices, with a 
   </a>
 </p>
 
-
+<!-- Dones -->
 
 ---
 
