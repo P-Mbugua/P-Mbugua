@@ -31,7 +31,7 @@
         { time: "9:30pm - 2am", count: data.times["21-3"] || 0 },
       ];
 
-      // Determine current coding period
+     
       if (currentHour >= 3 && currentHour < 9) {
         timePeriod = "🕰️ Morning (3am - 9am)";
       } else if (currentHour >= 9 && currentHour < 18) {
