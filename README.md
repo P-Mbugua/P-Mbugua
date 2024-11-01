@@ -51,7 +51,7 @@
   }
 
   getCodingTime();
-  setInterval(getCodingTime, 60000); // Update every 60 seconds
+  setInterval(getCodingTime, 60000); 
 </script>
 
 <hr style="border: 1px solid #cccccc; margin-top: 20px;"/>
