@@ -43,7 +43,7 @@
       }
 
       document.getElementById("codingTime").innerText = `Currently Coding: ${timePeriod}`;
-      // You can also display coding hours if necessary
+      
     } catch (error) {
       console.error('Error fetching GitHub data:', error);
       document.getElementById("codingTime").innerText = 'Error loading data.';
@@ -51,7 +51,7 @@
   }
 
   getCodingTime();
-  setInterval(getCodingTime, 60000); // Update every 60 seconds
+  setInterval(getCodingTime, 60000); 
 </script>
 
 <hr style="border: 1px solid #cccccc; margin-top: 20px;"/>
