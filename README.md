@@ -43,7 +43,7 @@
       }
 
       document.getElementById("codingTime").innerText = `Currently Coding: ${timePeriod}`;
-      // You can also display coding hours if necessary
+      
     } catch (error) {
       console.error('Error fetching GitHub data:', error);
       document.getElementById("codingTime").innerText = 'Error loading data.';
