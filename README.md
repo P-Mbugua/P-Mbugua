@@ -59,7 +59,7 @@
 # 🚀 About Me
 I am a **Junior Fullstack Developer** passionate about creating responsive, scalable web applications...
 
-<!-- The rest of your README continues here... -->
+
 
 
 # 🚀 About Me
