@@ -3,56 +3,10 @@
   <h1 style="font-size: 2.5em; margin-top: 10px;">Hi there, I'm <strong>Peter Mbugua</strong>! 👋</h1>
 </div>
 
-<hr style="border: 1px solid #cccccc; margin-top: 20px;"/>
 
-<div align="center">
-  <h2>📅 My Coding Activity</h2>
-  <p id="codingTime">Loading coding times...</p>
-</div>
 
-<script>
-  async function getCodingTime() {
-    const username = 'P-Mbugua';
-    const url = `https://github-readme-stats.vercel.app/api/traffic/${P-Mbugua}`;
-    
-    try {
-      const response = await fetch(url);
-      if (!response.ok) throw new Error('Network response was not ok');
-      
-      const data = await response.json();
-      const currentHour = new Date().getHours();
-      let timePeriod = "";
 
-      // Example productive time data, replace with actual response logic
-      let codingHours = [
-        { time: "3am - 9am", count: data.times["3-9"] || 0 },
-        { time: "9am - 6pm", count: data.times["9-18"] || 0 },
-        { time: "6pm - 9:30pm", count: data.times["18-21"] || 0 },
-        { time: "9:30pm - 2am", count: data.times["21-3"] || 0 },
-      ];
 
-      // Determine current coding period
-      if (currentHour >= 3 && currentHour < 9) {
-        timePeriod = "🕰️ Morning (3am - 9am)";
-      } else if (currentHour >= 9 && currentHour < 18) {
-        timePeriod = "🌞 Day Time (9am - 6pm)";
-      } else if (currentHour >= 18 && currentHour < 21.5) {
-        timePeriod = "🌆 Evening (7pm - 9:30pm)";
-      } else {
-        timePeriod = "🌙 Late Night (10pm - 2am)";
-      }
-
-      document.getElementById("codingTime").innerText = `Currently Coding: ${timePeriod}`;
-      
-    } catch (error) {
-      console.error('Error fetching GitHub data:', error);
-      document.getElementById("codingTime").innerText = 'Error loading data.';
-    }
-  }
-
-  getCodingTime();
-  setInterval(getCodingTime, 60000); 
-</script>
 
 <hr style="border: 1px solid #cccccc; margin-top: 20px;"/>
 
