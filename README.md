@@ -143,7 +143,7 @@ I aim to deepen my knowledge of cloud technologies and DevOps practices, with a 
 ### 🤔 Fun Facts
 - I once built a weather app that uses data from a rocket launch! 
 - My favorite programming language is JavaScript, but I'm keen to learn Go!
-
+<!-- Done -->
 # 💬 Let's Connect!
 <p align="center">
   <a href="mailto:petermbuguangumi@gmail.com">
