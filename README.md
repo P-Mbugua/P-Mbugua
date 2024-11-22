@@ -29,18 +29,6 @@ I am a **Junior Fullstack Developer** passionate about creating responsive, scal
 
 ---
 
-# 🔧 Skills & Technologies
-
-## Frontend  
-- **Languages**: HTML, CSS, JavaScript, TypeScript  
-- **Frameworks/Libraries**: React.js, Tailwind CSS, Bootstrap  
-- **Tools**: Figma, VS Code, Chrome DevTools  
-
-## Backend  
-- **Languages**: Python  
-- **Databases**: MySQLite3  
-- **API**: RESTful, GraphQL  
-- **Authentication**: JWT, OAuth  
 
 
 # 📈 GitHub Stats
