@@ -1,7 +1,4 @@
-<div align="center">
-  <img src="https://p-mbugua.github.io/Official-_Portfolio/peter.png" alt="Profile Picture" width="200" height="200" style="border-radius: 50%; box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2);" />
-  <h1 style="font-size: 2.5em; margin-top: 10px;">Hi there, I'm <strong>Peter Mbugua</strong>! 👋</h1>
-</div>
+
 
 
 
