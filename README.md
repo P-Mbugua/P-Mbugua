@@ -114,12 +114,7 @@ I am a **Junior Fullstack Developer** passionate about creating responsive, scal
 
 <hr style="border: 1px solid #cccccc; margin-top: 20px;"/>
 
-# 📜 Certifications
-- **JavaScript Algorithms & Data Structures** – freeCodeCamp
-- **Responsive Web Design** – freeCodeCamp
-- **Cloud Practitioner Essentials** – AWS
 
-<hr style="border: 1px solid #cccccc; margin-top: 20px;"/>
 
 
 
