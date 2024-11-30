@@ -5,8 +5,7 @@ I am a **Junior Fullstack Developer** passionate about creating responsive, scal
 
 - 🌍 **Location**: Kenya  
 - 💼 **Current Work**: MarpsAfrica | Save A Soul Organization  
-- 🕰️ **Work Hours**: Mostly at night (Kenyan time)  
-- 🌱 **Learning**: Cloud computing & DevOps  
+- 🕰️ **Work Hours**: Mostly at night (Kenyan time)   
 - 🗣️ **Languages**: Fluent in English | Swahili  
 
 ### ✨ Personal Statement  
@@ -16,7 +15,7 @@ I am a **Junior Fullstack Developer** passionate about creating responsive, scal
   <a href="https://developerp.netlify.app/" target="_blank">
     <img src="https://img.shields.io/badge/-Portfolio-%230084FF?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio Badge">
   </a>
-  <a href="https://www.linkedin.com/in/your-linkedin-profile/" target="_blank">
+  <a href="https://www.linkedin.com/in/peter-mbugua-a6351a262/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
   </a>
   <a href="mailto:pmbugua276@gmail.com">
@@ -29,30 +28,17 @@ I am a **Junior Fullstack Developer** passionate about creating responsive, scal
 
 ---
 
-
-
 # 📈 GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=P-Mbugua&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" width="450px">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=P-Mbugua&layout=compact&theme=radical" alt="Top Languages" width="350px">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=P-Mbugua&theme=radical" alt="GitHub Streak Stats" width="450px">
-  
 </div>
 
 ---
 
-# 🎯 Interests & Hobbies
-- **Tech Enthusiast**: I explore web development trends, cloud technologies, and DevOps.  
-- **Coding Challenges**: Active on LeetCode and Codewars.  
-- **Open Source**: Contribute to open-source projects.  
-- **Gaming**: Enjoy strategy and RPG games.  
-- **Music**: Jazz and instrumental music for focus.  
 
----
-
-
----
 
 # 💬 Let's Connect!
 <div align="center">
@@ -68,5 +54,4 @@ I am a **Junior Fullstack Developer** passionate about creating responsive, scal
 </div>
 
 ---
-
 *Thank you for visiting my GitHub profile! 😊*
