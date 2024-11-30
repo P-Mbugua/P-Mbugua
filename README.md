@@ -1,7 +1,7 @@
 <hr style="border: 1px solid #cccccc; margin-top: 20px;"/>
 
-# 🚀 About Me
-I am a **Junior Fullstack Developer** passionate about creating responsive, scalable web applications. I enjoy solving real-world problems through technology and continuously learning to enhance my skill set.
+
+Hello, am Peter Mbugua a **Junior Fullstack Developer** passionate about creating responsive, scalable web applications. I enjoy solving real-world problems through technology and continuously learning to enhance my skill set.
 
 - 🌍 **Location**: Kenya  
 - 💼 **Current Work**: MarpsAfrica | Save A Soul Organization  
@@ -39,19 +39,4 @@ I am a **Junior Fullstack Developer** passionate about creating responsive, scal
 ---
 
 
-
-# 💬 Let's Connect!
-<div align="center">
-  <a href="mailto:petermbuguangumi@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white" alt="Gmail">
-  </a>
-  <a href="https://www.linkedin.com/in/peter-mbugua-a6351a262/">
-    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://mbuguapeter.netlify.app/">
-    <img src="https://img.shields.io/badge/-Portfolio-green?style=flat-square&logo=google-chrome&logoColor=white" alt="Portfolio">
-  </a>
-</div>
-
----
 *Thank you for visiting my GitHub profile! 😊*
